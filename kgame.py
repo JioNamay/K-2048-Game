@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #
 # NWEN 241 Programming Assignment 5
 # kgame.py Python Source File

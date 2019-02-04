@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 #!/bin/env python3
 #
 # NWEN 241 Programming Assignment 5
