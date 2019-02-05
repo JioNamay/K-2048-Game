@@ -2,3 +2,5 @@
 
 A variation on the game '2048' by Gabriele Cirulli. Instead of using numbers, this variation uses letters. 
 The game is won when the player makes a 'K' tile.
+
+2nd-year university project for course NWEN241: Systems Programming.
